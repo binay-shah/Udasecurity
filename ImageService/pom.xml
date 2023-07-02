@@ -26,19 +26,7 @@
             <version>2.20.89</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/software.amazon.awscdk/core -->
-        <dependency>
-            <groupId>software.amazon.awscdk</groupId>
-            <artifactId>core</artifactId>
-            <version>1.204.0</version>
-        </dependency>
 
-        <!-- https://mvnrepository.com/artifact/software.amazon.awssdk/regions -->
-        <dependency>
-            <groupId>software.amazon.awssdk</groupId>
-            <artifactId>regions</artifactId>
-            <version>2.20.89</version>
-        </dependency>
 
         <!-- https://mvnrepository.com/artifact/software.amazon.awssdk/auth -->
         <dependency>
